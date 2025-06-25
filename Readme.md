@@ -19,5 +19,14 @@ This project demonstrates a ANN architecture.
 
 ### 3. Now processor requirements will also start(which were not that required in ml):
 //(google colab gpu,system gpu, github codespace gpu etc)
-//
+//fe
+//ann-
+1. sequential model
+2. No of trainable parameters= No of weights + No of bias
+3. then dense from keras for hidden layers
+4. then activation fns
+5. then optimisers
+6. then tensorboard for logging
+7. metrics (classsification)
+8. streamlit app and its deployment
 ---
