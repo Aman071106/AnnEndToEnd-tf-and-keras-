@@ -21,12 +21,12 @@ This project demonstrates a ANN architecture.
 //(google colab gpu,system gpu, github codespace gpu etc)
 //fe
 //ann-
-1. sequential model
+1. sequential model(both regression and classification discussed)
 2. No of trainable parameters= No of weights + No of bias
 3. then dense from keras for hidden layers
 4. then activation fns
 5. then optimisers
 6. then tensorboard for logging
-7. metrics (classsification)
-8. streamlit app and its deployment
+7. metrics (according to ps)
+8. streamlit app and its deployment [url](https://churnpredictor-deadlyharbor.streamlit.app/)
 ---
